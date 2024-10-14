@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bharadwaj acc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaj acc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bharadwaj-g-2b2144321?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdUlP6YsgTl2vojs4V1GbKw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharadwaj acc" height="30" width="40" /></a>
 <a href="https://fb.com/bharadwaj g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bharadwaj g" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/device user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="device user" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bharadwaj-14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharadwaj-14" height="30" width="40" /></a>
